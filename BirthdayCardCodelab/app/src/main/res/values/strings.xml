@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Birthday Card Codelab</string>
+    <string name="main_title">Main Dice Screen</string>
+    <string name="current_roll">Current Roll: %1$d</string>
+    <string name="roll">Roll</string>
+    <string name="go_to_result">Go to Result</string>
+    <string name="back">Back</string>
+    <string name="die_result">Die Result: %1$d</string>
+    <string name="die_result_game">Die Result: %1$d (Dice Game)</string>
+    <string name="die_result_one">Die Result: 1</string>
+    <string name="refresh">Refresh</string>
+    <string name="current_value">Current Value: %1$d</string>
+    <string name="increment_by_two">Increment by 2</string>
+    <string name="update_die">Update the Die</string>
+    <string name="select_screen">Select a screen to navigate to</string>
+    <string name="go_to_screen">Go to Screen %1$d</string>
+    <string name="result_value">Result: %1$d</string>
+    <string name="current_die">Current Die</string>
+    <string name="second_die">Second Die</string>
+    <string name="roll_second_die">Roll Second Die</string>
+    <string name="you_won">You Won! (%1$d &gt;= %2$d)</string>
+    <string name="you_lost">You Lost (%1$d &lt; %2$d)</string>
+</resources>
